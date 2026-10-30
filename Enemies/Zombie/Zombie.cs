@@ -6,14 +6,14 @@ namespace learningproject2.Enemies.Zombie;
 [GlobalClass]
 public partial class Zombie : Enemy
 {   
-    private float spawnX = 1300f;
-    private float spawnY = 450f;
+	private float spawnX = 1300f;
+	private float spawnY = 500f;
 
-    public override Vector2 GetSpawnPosition()
-    {
-        return new Vector2(
-            spawnX,
-            spawnY
-        );
-    }
+	public override Vector2 GetSpawnPosition()
+	{
+		return new Vector2(
+			spawnX,
+			spawnY
+		);
+	}
 }

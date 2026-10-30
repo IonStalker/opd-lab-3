@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dxk31aq4o1flm"]
 
-[ext_resource type="Script" uid="uid://qwqmsrwq5j17" path="res://Player/Player.cs" id="1_xhfnw"]
+[ext_resource type="Script" uid="uid://qwqmsrwq5j17" path="res://player/Player.cs" id="1_xhfnw"]
 
 [sub_resource type="Gradient" id="Gradient_xhfnw"]
 
